@@ -4,4 +4,8 @@ public class B
 {
   System.out.println("Hello World");
 }
+ public void m1()
+ {
+  System.out.println("m1-method");
+ }
 }
